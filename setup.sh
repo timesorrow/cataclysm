@@ -1,3 +1,4 @@
+#!/bin/bash
 apt update && apt upgrade -y
 apt-get -y install sudo nano 
 useradd mangos -p mangos -m
